@@ -1,16 +1,24 @@
-## Hi there 👋
+# Habner Andre Deves
 
-<!--
-**habner11dves/habner11dves** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Sou estudante de Informática no Instituto Federal do Paraná e estou
+construindo minha base como desenvolvedor Java Fullstack. Atualmente
+focado em back-end com Java, banco de dados com MySQL
+e fundamentos de front-end.
 
-Here are some ideas to get you started:
+Comprometido com boas práticas de desenvolvimento, e evolução contínua.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Formação
+
+**Informática** — Instituto Federal do Paraná - Campus Cascavel
+Previsão de conclusão: 2027
+
+## Tecnologias e conteúdos em aprendizado ativo
+
+- Java — orientação a objetos, ArrayList e estruturas de dados
+- Banco de dados relacional — modelagem e SQL
+- Engenharia de software — fundamentos e boas práticas
+
+## Contato
+
+LinkedIn: linkedin.com/in/habnerdeves
+E-mail: habnerdeves11@gmail.com
